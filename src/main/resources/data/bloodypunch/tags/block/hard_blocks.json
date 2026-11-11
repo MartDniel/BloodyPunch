@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:mineable/pickaxe",
+    "#minecraft:logs",
+    "#minecraft:planks",
+    "minecraft:bedrock"
+  ]
+}

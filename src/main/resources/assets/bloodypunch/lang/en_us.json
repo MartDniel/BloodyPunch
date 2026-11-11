@@ -1,0 +1,9 @@
+{
+  "effect.bloodypunch.bleeding": "Bleeding",
+
+  "death.attack.bleeding": "%1$s bled to death",
+  "death.attack.bleeding.player": "%1$s bled to death while fighting %2$s",
+
+  "bloodypunch.configuration.title": "BloodyPunch Configs",
+  "bloodypunch.configuration.flimsyItems": "Flimsy Items (still bleed bare-handed)"
+}
